@@ -9,3 +9,8 @@ lib/Makefile
 lib/_appveyor
 lib/appveyor.yml
 lib/_travis
+lib/docs
+lib/codecov.yml
+lib/dev-requirements.txt
+lib/dummyserver
+lib/release.sh
